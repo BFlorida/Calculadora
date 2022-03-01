@@ -1,0 +1,6 @@
+G:\DAM\-1-\PROGRAMACION\practica\bloque_4\Calculadora\Operacion\bin\Release\Operacion.dll
+G:\DAM\-1-\PROGRAMACION\practica\bloque_4\Calculadora\Operacion\bin\Release\Operacion.pdb
+G:\DAM\-1-\PROGRAMACION\practica\bloque_4\Calculadora\Operacion\obj\Release\Operacion.csproj.AssemblyReference.cache
+G:\DAM\-1-\PROGRAMACION\practica\bloque_4\Calculadora\Operacion\obj\Release\Operacion.csproj.CoreCompileInputs.cache
+G:\DAM\-1-\PROGRAMACION\practica\bloque_4\Calculadora\Operacion\obj\Release\Operacion.dll
+G:\DAM\-1-\PROGRAMACION\practica\bloque_4\Calculadora\Operacion\obj\Release\Operacion.pdb
